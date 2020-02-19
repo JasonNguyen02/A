@@ -1,0 +1,66 @@
+html {
+    background-color: #cabfb6;
+}
+body {
+    background-size: cover;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}    
+div {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px 100px 50px;
+}
+head {
+    text-align: center;
+}    
+span.Ex {
+    margin: auto;
+    padding: 35px 210px; 
+}
+a {
+    background-color: #c9793b;
+    padding: 15px;
+    border-radius: 6px;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+}
+h1 {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 25px;
+}
+button.And {
+    background-color: #a4c93b;
+    padding: 1px;
+    border-radius: 7px;
+    margin: 6px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+}
+button.App {
+    background-color: #b6bcca;
+    padding: 1px;
+    border-radius: 7px;
+    margin: 6px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+}
+hr {
+    margin: 25px;
+}
+uo {
+    font-family: 'Open Sans', sans-serif;
+    text-indent: 25px;
+    letter-spacing: 0.8px; 
+}
+a:hover {
+    border: black 1.5px solid;
+}
+li {
+    margin: 4px;
+}
